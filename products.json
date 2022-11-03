@@ -1,5 +1,4 @@
-{
-    "results": [
+[
         {
             "id": 2126397,
             "type": "SALES",
@@ -120,10 +119,4 @@
             "currency": "EUR",
             "productGroupId": 24805
         }
-    ],
-    "meta": {
-        "pageNumber": 0,
-        "pageSize": 50,
-        "resultCount": 8
-    }
-}
+    ]
