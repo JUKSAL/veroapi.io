@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "id": 1592886,
+            "name": "Test",
+            "billingAddress": {
+                "name": "Test"
+            },
+            "invoicingInfo": {},
+            "registryInfo": {
+                "active": true
+            },
+            "type": "PERSON",
+            "version": "2022-10-04T14:41:44"
+        },
+        {
+            "id": 1592896,
+            "name": "KTV-test01",
+            "billingAddress": {
+                "name": "KTV-test01",
+                "specifier": "Kotitalousvähennyksen testausta",
+                "street": "Köydenpunojankatu 2 a D",
+                "zip": "00180",
+                "city": "Helsinki"
+            },
+            "invoicingInfo": {
+                "customerNumber": "1",
+                "identifier": "050860-789L",
+                "identifierType": "HETU"
+            },
+            "registryInfo": {
+                "active": true
+            },
+            "type": "CUSTOMER",
+            "version": "2022-10-05T18:42:01"
+        },
+        {
+            "id": 1592979,
+            "name": "KTV-test02",
+            "billingAddress": {
+                "name": "KTV-test02",
+                "specifier": "Kotitalousvähennyksen testausta",
+                "street": "Köydenpunojankatu 2 a D",
+                "zip": "00180",
+                "city": "Helsinki",
+                "country": "FINLAND"
+            },
+            "invoicingInfo": {
+                "customerNumber": "2",
+                "identifier": "190460-3110",
+                "identifierType": "HETU"
+            },
+            "registryInfo": {
+                "active": true
+            },
+            "type": "CUSTOMER",
+            "version": "2022-10-24T20:10:15"
+        },
+        {
+            "id": 1593039,
+            "name": "KTV-test03",
+            "billingAddress": {
+                "name": "KTV-test03",
+                "specifier": "Specifier_billingAddress",
+                "street": "Street_billingAddress",
+                "zip": "00180",
+                "city": "Helsinki"
+            },
+            "invoicingInfo": {
+                "identifier": "250260-264R",
+                "identifierType": "HETU"
+            },
+            "registryInfo": {
+                "active": true
+            },
+            "type": "CUSTOMER",
+            "version": "2022-11-01T17:25:55"
+        }
+    ] 
+}
