@@ -2,7 +2,7 @@
     "results": [
         {
             "id": 1592886,
-            "name": "Test",
+            "name": "Test1",
             "billingAddress": {
                 "name": "Test"
             },
@@ -76,5 +76,10 @@
             "type": "CUSTOMER",
             "version": "2022-11-01T17:25:55"
         }
-    ] 
+    ],
+    "meta": {
+        "pageNumber": 0,
+        "pageSize": 50,
+        "resultCount": 4
+    }
 }
