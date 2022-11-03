@@ -1,5 +1,4 @@
-{
-    "results": [
+ [
         {
             "id": 8636859,
             "partnerId": 1592896,
@@ -211,10 +210,4 @@
             "created": "2022-11-01T17:47:50",
             "version": "2022-11-01T17:47:50"
         }
-    ],
-    "meta": {
-        "pageNumber": 0,
-        "pageSize": 50,
-        "resultCount": 17
-    }
-}
+    ], 
